@@ -1,4 +1,4 @@
-git_url "https://git.softvision.ro/git/svu_ios"
+git_url "git+ssh://git.softvision.ro/git/svu_ios"
 
 type "development" # The default type, can be: appstore, adhoc or development
 
