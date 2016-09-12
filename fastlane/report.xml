@@ -3,42 +3,42 @@
   <testsuite name="fastlane.lanes">
     
       
-      <testcase classname="fastlane.lanes" name="0: Verifying required fastlane version" time="0.000471">
+      <testcase classname="fastlane.lanes" name="0: Verifying required fastlane version" time="0.000476">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.000277">
+      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.000285">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="2: match" time="26.702318">
+      <testcase classname="fastlane.lanes" name="2: match" time="27.798468">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="3: increment_build_number" time="0.926899">
+      <testcase classname="fastlane.lanes" name="3: increment_build_number" time="1.569749">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="4: clean_build_artifacts" time="0.000667">
+      <testcase classname="fastlane.lanes" name="4: clean_build_artifacts" time="0.00056">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="5: clear_derived_data" time="0.257263">
+      <testcase classname="fastlane.lanes" name="5: clear_derived_data" time="0.348548">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="6: gym" time="43.914795">
+      <testcase classname="fastlane.lanes" name="6: gym" time="82.150306">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="7: crashlytics" time="7.901743">
+      <testcase classname="fastlane.lanes" name="7: crashlytics" time="8.057748">
         
       </testcase>
     
